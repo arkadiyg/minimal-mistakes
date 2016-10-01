@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : "Arkadiy Goykhberg"
 description              : "Professional Profile."
 url                      : "https://arkadiyg.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/test" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/minimal-mistake" # the subpath of your site, e.g. "/blog"
 repository               : "arkadiyg/minimal-mistakes" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -77,30 +77,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Arkadiy Goykhberg"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Passionate techologist "
+  location         : "Suburbs of NYC"
+  email            : "arkadiyg+blog@gmail.com
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : ArkadiyG
   foursquare       :
   github           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : arkadiyg
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : arkadiyg
   vine             :
   weibo            :
   xing             :
